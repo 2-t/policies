@@ -9,7 +9,7 @@ It is the goal of the Vista Unified School District to provide an opportunity fo
 
 APPLICATION
 
-On January 11, 2021, the Vista Unified School District will begin accepting applications for all students interested in enrollment.  The Vista Unified School District Magnet School Common Application (“Magnet Application”) must be completed and submitted online by February 19, 2021 at 4:30 p.m. in order to be considered for admission for the 2021-22 school year. If, after the application deadline and admission, available spaces remain at individual sites, the application process may be re-opened for individual schools. Post-deadline applications will be accepted after the lottery and placed at the bottom of the waitlist in the order they are received.  The Magnet Application form will be available online and online submission by parents/guardians is strongly preferred.  A paper-based application will also be available and parents/guardians who complete the paper-based form will be contacted by a VUSD employee who will work directly with them to complete an online application on their behalf.
+On January 11, 2021, the Vista Unified School District will begin accepting applications for all students interested in enrollment.  The Vista Unified School District Magnet School Common Application (“Magnet Application”) must be completed and submitted online by February 19, 2021 at 4:30 p.m. in order to be considered for admission for the 2021-22 school year. Applications for siblings of current students will always be accepted. If, after the application deadline and admission, available spaces remain at individual sites, the application process may be re-opened for individual schools. Post-deadline applications will be accepted after the lottery and placed at the bottom of the waitlist in the order they are received. Applications for siblings of current students will always be given priority at the top of the waitlist. The Magnet Application form will be available online and online submission by parents/guardians is strongly preferred.  A paper-based application will also be available and parents/guardians who complete the paper-based form will be contacted by a VUSD employee who will work directly with them to complete an online application on their behalf.
 
 Students interested in enrollment in the 2021-22 school year at a magnet school that they are not currently attending must complete a new application.  Applications and waitlist numbers from previous years are no longer valid.
 
@@ -19,7 +19,7 @@ SELECTION PROCESS
 
 Continuing Enrollment
 
-All students currently enrolled in a magnet school are encouraged to continue their attendance.    Continuing students are not required to complete a new application, however, to guarantee placement at Casita Center, Vista Academy, Vista Magnet Middle School and Vista Innovation and Design Academy, students must return their Participation Agreement Form to their school’s office during the spring as affirmation of their intent to continue their enrollment.  If the school does not receive a student’s Participation Agreement by the deadline, the District reserves the right to revoke that student’s enrollment.
+All students currently enrolled in a magnet school are encouraged to continue their attendance.    Continuing students are not required to complete a new application, however, to guarantee placement at Casita Center, Vista Academy, Vista Magnet Middle School and Vista Innovation and Design Academy, students must return their Participation Agreement Form to their school’s office during the spring as affirmation of their intent to continue their enrollment.  If the school does not receive a student’s Participation Agreement by the deadline, the District reserves the right to revoke that student’s enrollment. 
 
 To guarantee placement at Mission Vista High School, students must complete the class registration process with their counselors by the spring deadline.  If a student does not complete this process by the deadline, the District reserves the right to revoke that student’s enrollment.
 
@@ -71,7 +71,7 @@ After all of the available spaces are filled, a waitlist for each school and gra
 
 POST-DEADLINE APPLICATIONS
 
-Applications may continue to be accepted after the February 19, 2021 deadline if a school has or anticipates having additional space available for students.  Students will be placed at the bottom of the existing waitlist.  Should an applicant meet one of the priority criteria, they will be given priority on the waitlist.
+Applications may continue to be accepted after the February 19, 2021 deadline if a school has or anticipates having additional space available for students.  Students will be placed at the bottom of the existing waitlist.  Should an applicant meet one of the priority criteria, they will be given priority on the waitlist. Siblings of current students will always be placed at the top of the waitlist below any other siblings.
 
 CLOSE OF ADMISSIONS PERIOD
 
